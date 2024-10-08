@@ -1,6 +1,6 @@
 <!-- Level 1: Simple bio and stats -->
 
-👋 ### Hi, I'm Divesh!
+#👋 Hi, I'm Divesh!
 
 - 🌱 I’m currently learning full stack web development.<br/>
 - 👯 I’m looking to collaborate on open source projects.<br/>
